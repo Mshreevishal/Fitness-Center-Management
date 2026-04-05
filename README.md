@@ -1,6 +1,3 @@
-Got you da 👍 — I’ll upgrade your README with **clean, professional roles for each team member** (this will impress reviewers 💯)
-
----
 
 # 🏋️‍♂️ FitHub CRM – Fitness Center Management System
 
@@ -9,7 +6,7 @@ Got you da 👍 — I’ll upgrade your README with **clean, professional roles 
 FitHub CRM is a Salesforce-based fitness center management system designed to streamline operations such as member management, trainer allocation, membership tracking, and reporting.
 The system enhances efficiency by automating workflows and providing real-time insights for better decision-making.
 
----
+--
 
 ## 🎯 Objectives
 
@@ -19,7 +16,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Generate insightful reports and dashboards
 * Improve customer engagement and retention
 
----
+--
 
 ## ⚙️ Features
 
@@ -30,7 +27,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * 🔔 Automated Notifications
 * 📊 Reports & Dashboards
 
----
+--
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +36,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * **Backend Logic**: Apex (Triggers & Scheduled Jobs)
 * **Database**: Salesforce Custom Objects
 
----
+--
 
 ## 🧱 System Modules
 
@@ -49,7 +46,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Class
 * Booking
 
----
+--
 
 ## 🔄 Automation
 
@@ -57,7 +54,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Payment reminders
 * Trainer assignment logic
 
----
+--
 
 ## 📊 Reports & Dashboard
 
@@ -66,7 +63,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Trainer Performance Dashboard
 * Attendance Summary
 
----
+--
 
 # 👥 Team Members & Roles
 
@@ -77,7 +74,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Implemented automation using Salesforce Flow
 * Integrated core functionalities of the CRM
 
----
+--
 
 ### 🔹 **Sivadharshini –Reporting & Analytics Specialist**
 
@@ -86,7 +83,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Ensured smooth user experience across modules
 * Assisted in dashboard visualization
 
----
+--
 
 ### 🔹 **Durga – Data Management & Testing Lead**
 
@@ -95,7 +92,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Performed system testing and validation checks
 * Ensured data accuracy and consistency
 
----
+--
 
 ### 🔹 **Kumaran – UI/UX Designer & Configuration Specialist**
 
@@ -104,7 +101,7 @@ The system enhances efficiency by automating workflows and providing real-time i
 * Designed FitHub Analysis Summary Report
 * Supported decision-making with data visualization
 
----
+--
 
 ## 📌 User Story
 
@@ -112,7 +109,7 @@ As a gym administrator at FitHub Fitness Center, I want to efficiently manage me
 
 The system should automate key operations such as membership tracking, payment management, and notifications, while also providing insightful reports and dashboards to support data-driven decisions and improve customer engagement.
 
----
+--
 
 ## 🚀 Future Enhancements
 
@@ -121,5 +118,5 @@ The system should automate key operations such as membership tracking, payment m
 * Wearable Device Integration
 * Advanced Analytics Dashboard
 
----
+--
 
